@@ -58,3 +58,6 @@ test/
 *.iml
 *.log
 pubspec.lock
+.gitignore
+.metadata
+analysis_options.yaml
